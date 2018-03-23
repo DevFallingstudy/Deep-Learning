@@ -18,6 +18,12 @@
 [책 구매(yes24)](http://www.yes24.com/24/goods/49853812?scode=032&OzSrank=1) [책 구매(교보문고)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162240137&orderClick=LAG&Kc=) [책 구매(알라딘)](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118302430)  
 *여담으로 IT인의 아이돌 조대협님께서 써주신 추천사를 보니 믿음이 확 가는 책입니다.* 
 
+### 코딩셰프의 3분 딥러닝 - 케라스 맛
+위에 작성된 골빈해커님의 3분 딥러닝과 시리지를 이루는 서적입니다. 코드 별 한글 주석은 없지만, 케라스에 대한 예시와 코드 설명을 **짧고 확실하게** 이해할 수 있는 서적입니다. 개인적으로 골빈해커님의 텐서플로우 맛 서적을 먼저 본 후, 기본적인 backend 지식을 쌓고 예제를 탐구하는 것이 좋을 것이라고 생각됩니다. 3분 딥러닝이라는 제목에 맞게 빠르고 간결한 실습 적용에 탁월합니다!  
+[예제 코드 리스트(github)](https://github.com/jskDr/keraspp)  
+[책 구매(yes24)](http://www.yes24.com/24/goods/57617933)  [책 구매(교보문고)](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791162240137)  [책 구매(알라딘)](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125725712)  
+
+
 ### 카테고리별 스터디 자료 모음
 [handong1587](https://github.com/handong1587)이라는 아이디를 가진 깃허브 유저분께서 운영하시는 github.io 기반의 블로그입니다. 각 **카테고리 별 태그를 나누어 관련 자료를 모아두신 것**이 인상깊습니다. **딥러닝 이외에도 많은 자료**가 있으니 참고하면 좋을 것 같네요. 아, 참고로 자료는 **영어**로 작성되어있습니다^^  
 [블로그(github.io)](https://handong1587.github.io/categories.html)
