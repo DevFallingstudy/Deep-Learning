@@ -31,4 +31,5 @@
 # 깃허브 자료
 ### Pytorch
 [Basic Example for pytorch](https://github.com/pytorch/examples)는 Pytorch를 이용한 기본적인 예제 코드를 작성해둔 공식 repository입니다. 파이토치를 공부하며, 간결함과 아름다움에 빠져봐요!  
+### Keras
 [김태영의 케라스 이야기](https://tykimos.github.io/lecture/)는 국내 Keras 관련 홈페이지 중 단연 최고라 할 수 있는 블로그입니다. 개인이 운영하시며, 책을 내기도, 스터디를 운영하시기도 하는데, 케라스를 처음 배우고 싶은 개발자라면 꼭 한 번 보게될, 자주 참고하게 될 블로그라고 생각합니다.
