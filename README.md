@@ -1,6 +1,16 @@
 # Deep-Learning
 딥러닝과 관련된 자료들을 정리하고 공부하는 repo입니다.
 
+## 소스코드 목록
+
+- DNN Text Classification (작성 중)
+  - DNN과 Tensorflow를 통한 Text Classification
+- GAN (작성 중)
+  - pytorch를 이용한 GAN 작성
+  - 참고 주소 : https://dreamgonfly.github.io/2018/03/17/gan-explained.html
+- Tensorflow (작성 중)
+  - Tensorflow 예제 작성
+
 ## 인터넷 강의 목록
 ### 모두의 연구소 딥러닝 강의
 **어느 정도의 수학적 개념**이 잡혀있으면 듣기 좋은 딥러닝 강의입니다. 물론 큰 수학적 지식이 없어도 강의상에서 친절하게 알려주시기 때문에 쉽게 배울 수 있습니다. **개념부터 활용까지** 넓은 부분을 커버하고 있습니다.  
